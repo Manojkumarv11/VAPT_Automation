@@ -1,0 +1,10 @@
+20220930_063938 : VAPT Process Started
+Reading input file
+Target urls are ['https://www.tnpconsultants.com/en/tnp-india/', 'https://www.sonymusic.com/']
+Test case status:['CMS Detection', 'NO']
+no need to carry out CMS Detection
+Test case status:['Plugin Detection', 'NO']
+no need to carry out Plugin Detection
+Test case status:['WP SCAN', 'YES']
+Excecuting WP scan for https://www.tnpconsultants.com/en/tnp-india/
+Open the Website https://scanwp.net/ 

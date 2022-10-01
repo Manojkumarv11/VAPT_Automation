@@ -1,0 +1,3 @@
+20220930_074256 : VAPT Process Started
+Reading input file
+Target urls are ['TNP,https://www.tnpconsultants.com/', 'SONY,https://www.sonymusic.com/']

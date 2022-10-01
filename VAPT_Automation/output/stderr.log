@@ -1,0 +1,6 @@
+[ WARN ] RPA.Desktop.Windows library works only on Windows platform
+[ WARN ] /home/kali/.robocorp/holotree/5ef7058_b1f3c24_1c0bc041/lib/python3.9/site-packages/RPA/Desktop/Windows.py:209: FutureWarning: `RPA.Desktop.Windows` got deprecated and will be no longer maintained, please use `RPA.Windows` instead (https://robocorp.com/docs/libraries/rpa-framework/rpa-windows)
+  deprecation(
+
+[ WARN ] This is a deprecated import that will be removed in favor of RPA.Browser.Selenium
+[ WARN ] No input work items file found: None

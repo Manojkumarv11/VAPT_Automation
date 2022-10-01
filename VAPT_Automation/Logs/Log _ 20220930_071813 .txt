@@ -1,0 +1,28 @@
+20220930_071813 : VAPT Process Started
+Reading input file
+Target urls are ['https://www.tnpconsultants.com/', 'https://www.sonymusic.com/']
+Test case status:['CMS Detection', 'YES']
+Excecuting CMS detection for https://www.tnpconsultants.com/
+Inside CMS Detection workflow https://www.tnpconsultants.com/
+opening https://cmsdetect.com/
+entered input url
+Wordpress website identified
+Excecuting CMS detection for https://www.sonymusic.com/
+Inside CMS Detection workflow https://www.sonymusic.com/
+opening https://cmsdetect.com/
+entered input url
+Wordpress website identified
+Test case status:['Plugin Detection', 'YES']
+Excecuting Plugin detection for https://www.tnpconsultants.com/
+Opening plugin detection parameter file
+Excecuting Plugin detection for https://www.sonymusic.com/
+Opening plugin detection parameter file
+Test case status:['WP SCAN', 'YES']
+Excecuting WP scan for https://www.tnpconsultants.com/
+Open the Website https://scanwp.net/ 
+clicked the detect button
+Excecuting WP scan for https://www.sonymusic.com/
+Open the Website https://scanwp.net/ 
+clicked the detect button
+Test case status:['Cross site scripting', 'NO']
+no need to carry out Cross site scripting

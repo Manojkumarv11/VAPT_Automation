@@ -1,0 +1,8 @@
+20220930_074336 : VAPT Process Started
+Reading input file
+Target urls are ['TNP,https://www.tnpconsultants.com/', 'SONY,https://www.sonymusic.com/']
+Test case status:['CMS Detection', 'YES']
+Excecuting CMS detection for TNP
+Inside CMS Detection workflow TNP
+opening https://cmsdetect.com/
+entered input url

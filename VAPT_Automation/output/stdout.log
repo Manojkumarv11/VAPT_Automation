@@ -1,0 +1,64 @@
+==============================================================================
+Tasks :: VAPT Automation                                                      
+==============================================================================
+VAPT Automation                                                       CMS Detection
+YES
+/home/kali/Documents/VAPT_Automation/Logs/Log _ 20220930_074525 .txt
+/home/kali/Documents/VAPT_Automation/Screenshots/CMS_Detection_Result{index}.png
+/home/kali/Documents/VAPT_Automation/Logs/Log _ 20220930_074525 .txt
+/home/kali/Documents/VAPT_Automation/Screenshots/CMS_Detection_Result{index}.png
+Plugin Detection
+YES
+https://www.tnpconsultants.com/﻿wp-admin
+https://www.tnpconsultants.com/license.txt
+https://www.tnpconsultants.com/readme.html
+https://www.tnpconsultants.com/wp-activate.php
+https://www.tnpconsultants.com/wp-app.php
+https://www.tnpconsultants.com/wp-blog-header.php
+https://www.tnpconsultants.com/wp-comments-post.php
+https://www.tnpconsultants.com/wp-config-sample.php
+https://www.tnpconsultants.com/wp-cron.php
+https://www.tnpconsultants.com/wp-links-opml.php
+https://www.tnpconsultants.com/wp-load.php
+https://www.tnpconsultants.com/wp-login.php
+https://www.tnpconsultants.com/wp-mail.php
+https://www.tnpconsultants.com/wp-pass.php
+https://www.tnpconsultants.com/wp-register.php
+https://www.tnpconsultants.com/wp-settings.php
+https://www.tnpconsultants.com/wp-signup.php
+https://www.tnpconsultants.com/wp-trackback.php
+https://www.tnpconsultants.com/xmlrpc.php
+https://www.tnpconsultants.com/wp-content
+https://www.tnpconsultants.com/wp-includes
+https://www.sonymusic.com/﻿wp-admin
+https://www.sonymusic.com/license.txt
+https://www.sonymusic.com/readme.html
+https://www.sonymusic.com/wp-activate.php
+https://www.sonymusic.com/wp-app.php
+https://www.sonymusic.com/wp-blog-header.php
+https://www.sonymusic.com/wp-comments-post.php
+https://www.sonymusic.com/wp-config-sample.php
+https://www.sonymusic.com/wp-cron.php
+https://www.sonymusic.com/wp-links-opml.php
+https://www.sonymusic.com/wp-load.php
+https://www.sonymusic.com/wp-login.php
+https://www.sonymusic.com/wp-mail.php
+https://www.sonymusic.com/wp-pass.php
+https://www.sonymusic.com/wp-register.php
+https://www.sonymusic.com/wp-settings.php
+https://www.sonymusic.com/wp-signup.php
+https://www.sonymusic.com/wp-trackback.php
+https://www.sonymusic.com/xmlrpc.php
+https://www.sonymusic.com/wp-content
+https://www.sonymusic.com/wp-includes
+WP SCAN
+YES
+Cross site scripting
+NO
+| PASS |
+------------------------------------------------------------------------------
+Tasks :: VAPT Automation                                              | PASS |
+1 task, 1 passed, 0 failed
+==============================================================================
+Output:  /home/kali/Documents/VAPT_Automation/output/output.xml
+Log:     /home/kali/Documents/VAPT_Automation/output/log.html
